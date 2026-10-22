@@ -30,3 +30,4 @@ frontend/build/
 *.db
 ml/runs/
 backend/static/metrics/
+PROJECT_GUIDE.md
