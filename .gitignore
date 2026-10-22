@@ -1,0 +1,32 @@
+﻿# Datasets
+DOTAv1.zip
+DOTAv1/
+DOTAv1_smoke/
+
+# ML artifacts
+mlruns/
+weights/
+*.pt
+*.pth
+*.onnx
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# Node
+node_modules/
+frontend/dist/
+frontend/build/
+
+# Env / OS
+.env
+.DS_Store
+
+# Generated
+*.db
+ml/runs/
+backend/static/metrics/
